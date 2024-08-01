@@ -140,7 +140,7 @@ git cz
 
 ## 🤓 Me acompanhe para mais
 
-<img src="./imgs/myicon.png" alt="...">
+<a href="https://www.linkedin.com/in/joaomarcos10oficial/"><img src="./imgs/myicon.png" alt="..."></a>
 
 > "Não quero perder a pequena família que me resta. Eu vou vencer, não importa o que aconteça! Eu vou sobreviver, não importa o que aconteça. Só aos vitoriosos é permitido viver"
 > ___Mikasa Ackerman___
